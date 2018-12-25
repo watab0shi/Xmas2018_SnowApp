@@ -19,7 +19,7 @@ $ npm start
 測域センサー(UST-10LX)でタッチ判定  
 
 雪に触れたら、  
-`Arduino`で`NeoPixel`を触った雪と同じ色で光らせる。  
+`Arduino`で`NeoPixel`を雪と同じ色で光らせる。  
 ランダムで音を鳴らす（jsだとマルチプレイが面倒そうだったのでoFで実装）
 
 
@@ -27,3 +27,7 @@ $ npm start
 ofxGui  
 [ofxLibwebsockets](https://github.com/robotconscience/ofxLibwebsockets)  
 [ofxUST](https://github.com/watab0shi/ofxUST)
+
+## NeoPixel
+`Arduino`で、`oF`から`Serial`でHexColorを受信してその色でNeoPixelを光らせる。  
+  
