@@ -26,7 +26,7 @@ $ npm start
 ランダムで音を鳴らす（jsだとマルチプレイが面倒そうだったのでoFで実装）  
 
 
-## dependences
+### dependences
 ofxGui  
 [ofxLibwebsockets](https://github.com/robotconscience/ofxLibwebsockets)  
 [ofxUST](https://github.com/watab0shi/ofxUST)
