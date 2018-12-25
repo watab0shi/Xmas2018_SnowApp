@@ -5,9 +5,10 @@
 
 
 ## SnowApp
-壁面投影側。
+壁面投影側。  
 JS + CSSでQuadWarp  
-three.jsで雪のパーティクル
+three.jsで雪のパーティクル  
+![image](./img-SnowApp.png)
 
 ```
 $ cd /path-to-project-dir/SnowApp
@@ -19,10 +20,10 @@ $ npm start
 ## SnowApp_oF
 
 測域センサー(UST-10LX)でタッチ判定  
-
+  
 雪に触れたら、  
 `Arduino`で`NeoPixel`を雪と同じ色で光らせる。  
-ランダムで音を鳴らす（jsだとマルチプレイが面倒そうだったのでoFで実装）
+ランダムで音を鳴らす（jsだとマルチプレイが面倒そうだったのでoFで実装）  
 
 
 ## dependences
