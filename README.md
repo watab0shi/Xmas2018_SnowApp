@@ -6,7 +6,7 @@
 
 ## SnowApp
 壁面投影側。  
-JS + CSSでQuadWarp  
+JS + CSSでQuadWarp（Based on [http://jsfiddle.net/dFrHS/1/](http://jsfiddle.net/dFrHS/1/)）  
 three.jsで雪のパーティクル  
 ![image](./img-SnowApp.png)
 
